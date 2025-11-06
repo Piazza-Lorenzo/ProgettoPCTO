@@ -1,0 +1,1 @@
+creazione di un codice python che cerca tutti i nomi, email, numeri di telefono di aziende che operano in determinati settori e li salava in un excel che al termine dell'esecuzione sarà inviato via email. Vengono usati una Ai 
