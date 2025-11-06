@@ -1,0 +1,9 @@
+# File dei requisiti per il programma di scraping
+requests>=2.25.1
+beautifulsoup4>=4.9.3
+openai>=1.0.0
+google-generativeai>=0.3.0
+openpyxl>=3.0.0
+python-dotenv>=1.0.0
+google-search-results>=2.4.2
+ollama>=0.3.0

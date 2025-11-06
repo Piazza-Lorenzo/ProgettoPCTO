@@ -1,0 +1,8 @@
+# File Excel generati
+*.xlsx
+response.json
+.env
+# Altri file temporanei e di log
+*.log
+__pycache__/
+*.pyc
